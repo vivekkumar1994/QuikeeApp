@@ -35,7 +35,7 @@ const Coin = ({name,image,symbol,current_price
         </div>
    
       </div>
-      <Link to="view"><button className="edit">edit</button></Link>
+      <Link to="view"><button className="edit">view</button></Link>
       <button className="save">save</button>
   
   
