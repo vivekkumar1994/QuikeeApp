@@ -1,0 +1,15 @@
+.container{
+    display: flex;
+    justify-content: space-between;
+}
+
+.container div img{
+    height: 55px;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.container div button{
+    background-color: brown;
+}

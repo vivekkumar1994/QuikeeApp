@@ -1,0 +1,31 @@
+.logobox{
+    display: flex;
+    gap: 1%;
+    margin-top: 10px;
+}
+
+.box{
+    height: 200px;
+    width: 100%;
+    border: 1px solid  rgb(70, 61, 61);
+}
+.box:hover{
+    background-color:rgb(250, 7, 48);
+
+}
+.boxitem{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 10px;
+}
+.boxitem:hover{
+    background-color: aquamarine;
+}
+
+.boxitem img{
+   padding: 15px;
+}
+.usd h1{
+margin: auto;
+text-align: center;
+}
